@@ -1,0 +1,15 @@
+[24-Jul-2025 09:29:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kasunpre_water_qualitymap.devices' doesn't exist in /home/kasunpre/uniqusys.info/map/map.php:4
+Stack trace:
+#0 /home/kasunpre/uniqusys.info/map/map.php(4): mysqli->query()
+#1 {main}
+  thrown in /home/kasunpre/uniqusys.info/map/map.php on line 4
+[24-Jul-2025 09:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kasunpre_water_qualitymap.devices' doesn't exist in /home/kasunpre/uniqusys.info/map/map.php:4
+Stack trace:
+#0 /home/kasunpre/uniqusys.info/map/map.php(4): mysqli->query()
+#1 {main}
+  thrown in /home/kasunpre/uniqusys.info/map/map.php on line 4
+[24-Jul-2025 09:50:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kasunpre_water_qualitymap.devices' doesn't exist in /home/kasunpre/uniqusys.info/map/device.php:8
+Stack trace:
+#0 /home/kasunpre/uniqusys.info/map/device.php(8): mysqli->query()
+#1 {main}
+  thrown in /home/kasunpre/uniqusys.info/map/device.php on line 8
